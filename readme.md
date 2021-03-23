@@ -7,4 +7,6 @@ Tambien me gusta andar en bicicleta. Con mis amigos hacemos salidas largas a dis
 Tengo un perro que se llama Mario y es medio gato.
 ![](https://github.com/glattanzio/hello-world/blob/main/mario2.jpg?raw=true)
 
+La ultima pelicula que me gusto mucho fue "la isla siniestra", que no la habia visto y todos me decian que la vea. Al final la vi hace poco y no me decepciono.
+
 

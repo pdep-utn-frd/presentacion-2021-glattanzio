@@ -1,5 +1,5 @@
 ## Gonzalo Lattanzio
-
+![yo](https://raw.githubusercontent.com/pdep-utn-frd/presentacion-2021-glattanzio/main/yo.JPG)
 
 ### Informacion Personal
  -**Legajo: 11757**
